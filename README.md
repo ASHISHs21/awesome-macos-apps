@@ -40,6 +40,7 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 - [The Unarchiver](https://theunarchiver.com/) - "Winrar" for Mac [`brew install --cask the-unarchiver`]
 - [UTM](https://mac.getutm.app/) - Free VMs for mac (works even on Apple proccessors) [`brew install --cask utm`]
 - [WhatsApp](https://www.whatsapp.com/) - WhatsApp Mac client [`brew install --cask whatsapp`]
+- [CleanMyMac X](https://cleanmymac.com/) - Free Clean MAC Software
 
 ## Media
 
